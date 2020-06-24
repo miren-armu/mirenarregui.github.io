@@ -43,17 +43,6 @@
     text-align: center;
 }
 
-.parallax{
-    
-    background: url(img/index.png) no-repeat center ;
-    width: 100%;
-    height: 250px;
-    background-attachment: fixed;
-    
-}
-
-
-
 .img-winter {
     
     background-attachment: fixed;
